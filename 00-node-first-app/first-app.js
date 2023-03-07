@@ -1,4 +1,4 @@
-// ABOUT THE AUTHOR:
+// ABOUT FELIPE FIGUEIREDO:
 // https://www.linkedin.com/in/fjnfigueiredo/
 // https://github.com/FigueiredoFelipe
 
